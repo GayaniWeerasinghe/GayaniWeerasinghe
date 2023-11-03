@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://gayaniweerasinghe.io)
 <h1 align="center">Hi 👋, I'm Gayani Weerasinghe</h1>
-<h3 align="center">A passionate Intern Software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Associate Software Engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">
 
 
