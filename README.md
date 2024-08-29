@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **maduwpg@gmail.com**
 
--    Check out my portfolio **https://portfolio-gayani.netlify.app/
-**
+-    Check out my portfolio **https://portfolio-gayani.netlify.app/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
