@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **MERN, PHP**
+- 💬 Ask me about **MERN, PHP, JAVA**
 
 - 📫 How to reach me **maduwpg@gmail.com**
 
