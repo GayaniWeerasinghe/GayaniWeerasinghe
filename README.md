@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **MERN, PHP, JAVA**
+- 💬 Ask me about **MERN, PHP, PYTHON**
 
 - 📫 How to reach me **maduwpg@gmail.com**
 
